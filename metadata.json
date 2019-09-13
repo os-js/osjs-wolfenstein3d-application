@@ -1,0 +1,14 @@
+{
+  "name": "Wolfenstein",
+  "category": "games",
+  "icon": "./icon.png",
+  "title": {
+    "en_EN": "Wolfenstein 3D"
+  },
+  "description": {
+    "en_EN": "Wolfenstein 3D HTML5"
+  },
+  "files": [
+    "main.js"
+  ]
+}
