@@ -1,7 +1,7 @@
 /*
  * OS.js - JavaScript Cloud/Web Desktop Platform
  *
- * Copyright (c) 2011-2018, Anders Evenrud <andersevenrud@gmail.com>
+ * Copyright (c) 2011-2020, Anders Evenrud <andersevenrud@gmail.com>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -43,7 +43,7 @@ const register = (core, args, options, metadata) => {
 
   // Create  a new Window instance
   proc.createWindow({
-    id: 'MyIframeApplicationWindow',
+    id: 'Wolfenstein3D',
     title: metadata.title.en_EN,
     icon: proc.resource(metadata.icon),
     dimension: {width: 640, height: 480},
