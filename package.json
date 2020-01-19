@@ -18,7 +18,9 @@
   ],
   "files": [
     "dist/",
-    "metadata.json"
+    "metadata.json",
+    "README.md",
+    "LICENSE"
   ],
   "dependencies": {},
   "devDependencies": {
