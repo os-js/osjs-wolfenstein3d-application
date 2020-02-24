@@ -1,7 +1,7 @@
 {
   "name": "@osjs/wolfenstein3d-application",
-  "version": "1.0.1",
-  "description": "OS.js v3 Wolfenstein Game",
+  "version": "1.0.2",
+  "description": "OS.js Wolfenstein Game",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "eslint *.js",
